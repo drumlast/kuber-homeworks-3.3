@@ -19,9 +19,7 @@ kubectl get nodes
 
 Скриншот:
 
-```
 ![get nodes](img/1.png)
-```
 
 ---
 
@@ -41,9 +39,7 @@ kubectl get ns
 
 Скриншот:
 
-```
 ![get ns](img/2.png)
-```
 
 ---
 
@@ -209,9 +205,7 @@ kubectl get svc -n app
 
 Скриншот:
 
-```
 ![check](img/3.png)
-```
 
 ---
 
@@ -237,9 +231,7 @@ curl cache
 
 Скриншот:
 
-```
 ![backend - cache](img/4.png)
-```
 
 ---
 
@@ -314,9 +306,7 @@ kubectl get networkpolicy -n app
 
 Скриншот:
 
-```
 ![net policy](img/5.png)
-```
 
 ---
 
@@ -336,9 +326,7 @@ curl backend
 
 Скриншот:
 
-```
 ![backend](img/6.png)
-```
 
 ---
 
@@ -350,9 +338,7 @@ curl cache
 
 Скриншот:
 
-```
 ![cache](img/7.png)
-```
 
 ---
 
@@ -370,9 +356,7 @@ curl cache
 
 Скриншот:
 
-```
 ![cache allow](img/8.png)
-```
 
 ---
 
